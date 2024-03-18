@@ -1,6 +1,6 @@
 #include <stdbool.h>
 #include <stm8s.h>
-//#include <stdio.h>
+#include <stdio.h>
 #include "main.h"
 #include "milis.h"
 #include "delay.h"
